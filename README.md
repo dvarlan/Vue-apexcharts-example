@@ -1,5 +1,5 @@
 # Vue-apexcharts-example
- A simple chartexample using the Apexcharts warapper for Vue.
+ A simple chart example using the Apexcharts wrapper for Vue.
 ## Project setup
 ```
 npm install
